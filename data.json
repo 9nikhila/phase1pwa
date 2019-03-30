@@ -1,0 +1,39 @@
+{
+  "profile":{
+    "image":"images/tulip.jpg",
+    "name":"Nikhila",
+    "designation":"Student",
+    "mobile":"9398431617",
+    "email":"asvathanikhila123@gmail.com"
+  },
+  "career":{
+    "info":"to explose the talent"
+  },
+  "education":
+    [
+    {
+    "sno":"1",
+    "qualification":"B.TECH",
+    "Institute":"MITS",
+    "percen":"80",
+    "yop":"2021"
+  },
+{
+"sno":"2",
+"qualification":"SSC",
+"Institute":"NARAYANA",
+"percentage":"80",
+"yop":"2015"
+}
+],
+"skills":[
+  {
+  "name":"web technologies",
+  "info":["HTML1,css,js"]
+},
+{
+"name":"database",
+"info":["JDBC","firebase","sql"]
+}
+]
+}
